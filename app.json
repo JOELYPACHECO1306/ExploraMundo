@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "ExploraMundo",
+    "slug": "explora-mundo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F6F1FF",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
